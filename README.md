@@ -1,4 +1,4 @@
-# Jupyter Copilot in CML with Locally Hosted 
+# Jupyter Copilot in CML with Locally Hosted Model
 
 ```
 cdsw@amd942yvvgm8521k:~$ pip list | grep jupyter
