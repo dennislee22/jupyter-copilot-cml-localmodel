@@ -1,4 +1,26 @@
-# Jupyter Copilot in CML with Locally Hosted Model
+# Jupyter Copilot in CML with Locally Hosted 
+
+```
+cdsw@amd942yvvgm8521k:~$ pip list | grep jupyter
+jupyter_ai                    2.18.1
+jupyter_ai_magics             2.18.1
+jupyter_client                8.6.2
+jupyter_core                  5.3.0
+jupyter-events                0.10.0
+jupyter-lsp                   2.1.0
+jupyter_server                2.14.1
+jupyter_server_fileid         0.9.0
+jupyter-server-mathjax        0.2.6
+jupyter_server_terminals      0.5.3
+jupyter_server_ydoc           0.6.1
+jupyter-ydoc                  0.2.4
+jupyterlab                    4.2.3
+jupyterlab-git                0.41.0
+jupyterlab-lsp                4.1.0
+jupyterlab-pygments           0.2.2
+jupyterlab_server             2.27.2
+jupyterlab_widgets            3.0.11
+```
 
 <img width="1440" alt="image" src="https://github.com/dennislee22/copilot-cml-localmodel/assets/35444414/42ace8f9-ea65-43b3-a663-c992cc82e61e">
 
