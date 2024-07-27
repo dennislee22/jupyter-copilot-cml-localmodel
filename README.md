@@ -23,9 +23,7 @@ pip install vllm
 **Step 3**:  In the same project, set up a CML application using a CUDA runtime image and execute the provided sample code. Keep in mind that the cloned image folder has been renamed to `gpt-3.5-turbo` because Jupyter-AI is specifically programmed to recognize only the model provided by OPENAI. Renaming the model is a clever workaround :)
 
 ```
-import subprocess, sys, os
-import cdsw
-import time
+import os
 
 DASHBOARD_PORT = os.environ['CDSW_READONLY_PORT']
 CDSW_APP_PORT=os.environ['CDSW_APP_PORT'] 
