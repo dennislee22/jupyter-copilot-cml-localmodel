@@ -1,5 +1,9 @@
 # Jupyter Copilot in CML with Self-Hosted LLM
 
+
+![Uploading image.png…]()
+
+
 ```
 cdsw@amd942yvvgm8521k:~$ pip list | grep jupyter
 jupyter_ai                    2.18.1
