@@ -6,7 +6,7 @@
 
 vLLM includes an HTTP server that supports OpenAI’s Completions and Chat APIs. To interact with this server, you can use the official OpenAI Python client library or any other HTTP client. Since Jupyter-AI utilizes the OpenAI API, vLLM can be employed to replicate this connection, enabling Jupyter-AI to work with the vLLM server as a substitute. Behind the scenes, the backend LLM serving the requests through vLLM is powered by OpenHermes2.5-7B model.
 
-## Procedures
+## Procedure
 
 **Step 1**: Create a new CML project, open a CML session, clone the model from the HF github.
 
