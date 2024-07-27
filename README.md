@@ -1,7 +1,7 @@
 # Jupyter Copilot in CML with Self-Hosted LLM
 
 
-![Uploading image.png…]()
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/b698500f-67fc-4c6c-a1ce-41ab4f08f981">
 
 
 ```
