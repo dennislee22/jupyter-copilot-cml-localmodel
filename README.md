@@ -1,6 +1,6 @@
 # Jupyter Copilot in CML with Self-Hosted LLM
 
-[Jupyter-AI](https://github.com/jupyterlab/jupyter-ai) Copilot, a cutting-edge extension for Jupyter Notebooks, represents a significant advancement by leveraging LLM to provide intelligent code assistance. When deployed in an air-gapped environment where systems are isolated from external networks, Jupyter Copilot with self-hosted LLMs offers unique advantages and technical considerations that are critical for secure environment.
+[Jupyter-AI](https://github.com/jupyterlab/jupyter-ai) Copilot, a cutting-edge extension for Jupyter Notebooks, represents a significant advancement by leveraging LLM to provide intelligent code assistance. When deployed in an air-gapped environment where systems are isolated from external networks, Jupyter Copilot with self-hosted LLMs offers unique advantages and technical considerations that are critical for secure environment. Additionally, this solution is ideal for users who prefer not to incur costs with AI providers :)
 
 <img width="779" alt="image" src="https://github.com/user-attachments/assets/cbb7bfb3-81c0-4e8a-be3d-dd1bb11ef588">
 
